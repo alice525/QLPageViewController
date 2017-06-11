@@ -1,0 +1,25 @@
+//
+//  QLBaseKitMacro.pch
+//  QLBaseKit
+//
+//  Created by Norcy on 2017/5/26.
+//  Copyright © 2017年 Norcy. All rights reserved.
+//
+
+#ifndef QLBaseKitMacro_pch
+#define QLBaseKitMacro_pch
+
+#pragma mark - UI
+#import "QLMBProgressHUD.h"
+#import "QNBPromptManager.h"
+#import "QLAttributedLabel.h"
+
+#pragma mark - Component
+#import "QLBaseKit.h"
+#import "UIDevice-Hardware.h"
+
+#import "NSString+UIColor.h"
+#import "UIFontAdditions.h"
+#import "UIView+ShortCut.h"
+
+#endif /* QLBaseKitMacro_pch */
